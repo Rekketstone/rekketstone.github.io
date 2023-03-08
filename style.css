@@ -12,3 +12,6 @@ header {
     line-height: 50px;
     background-color: #ff2600e1;
 }
+title {
+    font-style: italic;
+}
