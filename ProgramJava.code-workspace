@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "ProgramJava",
+			"path": "../ProgramJava"
+		},
+		{
+			"name": "ProgramC",
+			"path": "../ProgramC"
+		},
+		{
+			"path": "../PythonButBetter"
+		},
+		{
+			"path": "../Downloads/MinesweeperForJava-master/MinesweeperForJava-master/Minesweeper"
+		}
+	],
+	"settings": {}
+}
