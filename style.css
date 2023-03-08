@@ -6,5 +6,17 @@ a:link {
 a:hover {
     color: pink;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: dashed;
 }
+
+a:visited {
+    color: rgb(255, 0, 43);
+    background-color: transparent;
+    text-decoration: line-through;
+  }
+  
+  a:active {
+    color:aqua;
+    background-color: transparent;
+    text-decoration: dotted;
+  }
