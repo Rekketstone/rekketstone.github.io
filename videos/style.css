@@ -1,0 +1,10 @@
+video {
+    margin-left: 50vw;
+    margin-top: 0%;
+    transform: translate(-50%);
+    width: 50%;
+}
+.video2 {
+    margin-left: 50vw;
+    transform: translate(-50%);
+}

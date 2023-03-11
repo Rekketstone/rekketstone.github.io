@@ -1,0 +1,9 @@
+Button {
+    cursor: pointer;
+}
+h1 {
+    cursor: default;
+}
+p {
+    cursor: default;
+}

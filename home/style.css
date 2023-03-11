@@ -24,3 +24,6 @@ a:visited {
   p {
     margin:0%;
   }
+  .button1 {
+    cursor: pointer;
+  }
